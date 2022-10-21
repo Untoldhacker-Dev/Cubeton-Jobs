@@ -1,6 +1,6 @@
 # Cubeton-Jobs
 
-<img src="https://i.ibb.co/MpFqVzq/IMG-20220626-192620-336-removebg-preview.png" alt="Smiley face" height="150" width="1000"> 
+<img src="https://i.ibb.co/YX4nSQX/20221021-204403.png" alt="CubeTon" height="150" width="1000"> 
 
 
 <h3>🏢 We can have CubeTon Jobs with Bots.Business development now, and it's obvious that those jobs will be paying. </h3>
