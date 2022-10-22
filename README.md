@@ -3,9 +3,13 @@
 <img src="https://i.ibb.co/YX4nSQX/20221021-204403.png" alt="CubeTon" height="150" width="1000"> 
 
 
+
 <h3>🏢 We can have CubeTon Jobs with Bots.Business development now, and it's obvious that those jobs will be paying. </h3>
 
-| 🛠️ DRAFT PLANNINGS - NOT TO BE APPLIED CURRENTLY | 
+
+[Read the introduction](./intro.md)
+
+| More coming soon! | 
 | -- |
 
 
