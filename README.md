@@ -16,7 +16,7 @@
 | JOB          	|                      Function                     	|              Salary 	|       Payment Time 	|
 |--------------	|:-------------------------------------------------:	|--------------------:	|-------------------:	|
 | CubeTon Builder   	|            Complete Paid support Orders           	| 45% of Order Amount 	|       Monthly      	|
-| CubeTon Mechanic  	|     Fixes Bugs and Hacks in bots (PAID ORDER)     	| 30% of Order Amount 	|       Monthly      	|
-| CubeTon Inspector 	| Makes feature reports upon paid requests for bots 	| 30% of Order Amount 	|       Monthly      	|
+| CubeTon Mechanic  	|     Fixes Bugs and Hacks in bots (PAID ORDER)     	| 45% of Order Amount 	|       Monthly      	|
+| CubeTon Inspector 	| Makes feature reports upon paid requests for bots 	| 45% of Order Amount 	|       Monthly      	|
 
 
