@@ -1,7 +1,15 @@
 # Cubeton-Jobs
 
 <img src="https://i.ibb.co/YX4nSQX/20221021-204403.png" alt="CubeTon" height="150" width="1000"> 
+<center>
 
+Please select your role to view respective info:
+
+| Documentation for Customers                 	|      Documentation for Job-Seekers     	|
+|---------------------------------------------	|:--------------------------------------:	|
+| <a href = "./customers.md"> Click here </a> 	| <a href = "./jobs.md"> Click here </a> 	|
+
+</center>
 
 
 <h3>🏢 We can have CubeTon Jobs with Bots, Webs and Apps development now, and it's obvious that those jobs will be paying. </h3>
