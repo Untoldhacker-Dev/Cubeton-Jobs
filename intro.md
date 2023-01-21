@@ -21,4 +21,4 @@ See how BB's Administration system works:
 
 
 ## What's my Job?
- You can open an order to Make bots, Repair Bots, or to inspect bots by messaging [@UntoldHacker](https://untoldhacker.t.me). or also you can contact [@UntoldHacker](https://UntoldHacker.t.me) to get a job in [Cubeton](https://CubeTon.t.me)
+ You can open an order to Make bots, Repair Bots, or to inspect bots by messaging [@UntoldHacker (Aditya Pandey) ](https://untoldhacker.t.me). or also you can contact [@UntoldHacker](https://UntoldHacker.t.me) to get a job in [Cubeton](https://CubeTon.t.me)
