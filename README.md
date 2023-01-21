@@ -12,13 +12,28 @@
 | More coming soon! | 
 | -- |
 <hr>
-<center><h2> In Bots.Business Scope </h2>
+<center><h2> 1. In Bots.Business Scope </h2>
 
 | JOB          	|                      Function                     	|              Salary 	|       Payment Time 	|
 |--------------	|:-------------------------------------------------:	|--------------------:	|-------------------:	|
-| CubeTon Builder   	|            Complete Paid support Orders           	| 45% of Order Amount 	|       Monthly      	|
-| CubeTon Mechanic  	|     Fixes Bugs and Hacks in bots (PAID ORDER)     	| 45% of Order Amount 	|       Monthly      	|
+| CubeTon Builder   	|            Complete Orders           	| 45% of Order Amount 	|       Monthly      	|
+| CubeTon Mechanic  	|     Fixes Bugs and Hacks in bots      	| 45% of Order Amount 	|       Monthly      	|
 | CubeTon Inspector 	| Makes feature reports upon paid requests for bots 	| 45% of Order Amount 	|       Monthly      	|
 <hr>
-<h2> 
+<h2> 2. In Node.js (Independent) Scope </h2>
+  <h3> For orders less than $20 </h3>
+  
+  | JOB              	|       Function       	|              Salary 	|       Payment Time 	|
+|------------------	|:--------------------:	|--------------------:	|-------------------:	|
+| CubeTon Builder  	|    Complete Orders   	| 50% of Order Amount 	|       Monthly      	|
+| CubeTon Mechanic 	| Fixes Bugs and Hacks 	| 35% of Order Amount 	|       Monthly      	| 
+    
+   <h3> For orders more than $20 </h3>
+  
+  
+  | JOB              	|       Function       	|              Salary 	|       Payment Time 	|
+|------------------	|:--------------------:	|--------------------:	|-------------------:	|
+| CubeTon Builder  	|    Complete Orders   	| 45% of Order Amount 	|       Monthly      	|
+| CubeTon Mechanic 	| Fixes Bugs and Hacks 	| 30% of Order Amount 	|       Monthly      	|
+  <hr>
 
