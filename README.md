@@ -34,16 +34,16 @@
   
   | JOB              	|       Function       	|              Salary 	|       Payment Time 	|
 |------------------	|:--------------------:	|--------------------:	|-------------------:	|
-| CubeTon Builder  	|    Complete Orders   	| 50% of Order Amount 	|       Monthly      	|
-| CubeTon Mechanic 	| Fixes Bugs and Hacks 	| 35% of Order Amount 	|       Monthly      	| 
+| CubeTon Builder  	|    Complete Orders   	| 45% of Order Amount 	|       Monthly      	|
+| CubeTon Mechanic 	| Fixes Bugs and Hacks 	| 30% of Order Amount 	|       Monthly      	| 
     
    <h3> •> For orders more than $20 </h3>
   
   
   | JOB              	|       Function       	|              Salary 	|       Payment Time 	|
 |------------------	|:--------------------:	|--------------------:	|-------------------:	|
-| CubeTon Builder  	|    Complete Orders   	| 45% of Order Amount 	|       Monthly      	|
-| CubeTon Mechanic 	| Fixes Bugs and Hacks 	| 30% of Order Amount 	|       Monthly      	|
+| CubeTon Builder  	|    Complete Orders   	| 50% of Order Amount 	|       Monthly      	|
+| CubeTon Mechanic 	| Fixes Bugs and Hacks 	| 35% of Order Amount 	|       Monthly      	|
   <hr>
   
   <h2> 3. For Android Application development [3-4 seats each]</h2>
