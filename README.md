@@ -11,8 +11,8 @@
 
 </center>
 -->
-
-<h3>🏢 We can have CubeTon Jobs with Bots, Webs and Apps development now, and it's obvious that those jobs will be paying. </h3>
+<h2> CubeTon - by <b> Aditya Pandey </b> </h2>
+<br><br><h3>🏢 We can have CubeTon Jobs with Bots, Webs and Apps development now, and it's obvious that those jobs will be paying. </h3>
 
 
 [Read the introduction](./intro.md)
