@@ -56,12 +56,3 @@
   
   <hr>
 
-<hr>
-<center><h2> 4. In Telebot Creator Scope [3-4 seats each] </h2>
-
-| JOB          	|                      Function                     	|              Salary 	|       Payment Time 	|
-|--------------	|:-------------------------------------------------:	|--------------------:	|-------------------:	|
-| CubeTon Builder   	|            Complete Orders           	| 45% of Order Amount 	|       Monthly      	|
-| CubeTon Mechanic  	|     Fixes Bugs and Hacks in bots      	| 45% of Order Amount 	|       Monthly      	|
-| CubeTon Inspector 	| Makes feature reports upon paid requests for bots 	| 45% of Order Amount 	|       Monthly      	|
-<hr>
