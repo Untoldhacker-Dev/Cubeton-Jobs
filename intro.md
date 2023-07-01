@@ -11,14 +11,10 @@ See how BB's Administration system works:
 ```
 ### [Cubeton](https://CubeTon.t.me) is based on the same idea.
 
-
-> CubeTon Inspectors: Recieves orders for inspecting and rating a bot 
-
 > CubeTon Builders: Recieves orders for Making bots
 
-
-> CubeTon Mechanics: Recieves orders to fix hacks and bugs in codes and bots
+> Api Builders: Makes rest api webs
 
 
 ## What's my Job?
- You can open an order to Make bots, Repair Bots, or to inspect bots by messaging [@UntoldHacker (Aditya Pandey) ](https://untoldhacker.t.me). or also you can contact [@UntoldHacker](https://UntoldHacker.t.me) to get a job in [Cubeton](https://CubeTon.t.me)
+ You can open an order to Make bots, Repair Bots, or to inspect bots by messaging [@UntoldHacker](https://untoldhacker.t.me). or also you can contact [@UntoldHacker](https://UntoldHacker.t.me) to get a job in [Cubeton](https://CubeTon.t.me)
